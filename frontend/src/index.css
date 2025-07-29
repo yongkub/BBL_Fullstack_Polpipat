@@ -1,0 +1,11 @@
+.input-wrap{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin: 20px 0;
+}
+.btn-wrap{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
